@@ -5,7 +5,8 @@ let movies = [
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum est nobis, magnam debitis deserunt maiores!",
     image: "images/slider 2.png"
   },
-   {
+   
+  {
     name: "loki",
     des:
       "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cum est nobis, magnam debitis deserunt maiores!",
